@@ -1,6 +1,5 @@
 package com.jireh.tasks;
 
-import com.jireh.tasks.TasksApp;
 import com.jireh.tasks.config.AsyncSyncConfiguration;
 import com.jireh.tasks.config.EmbeddedSQL;
 import java.lang.annotation.ElementType;
